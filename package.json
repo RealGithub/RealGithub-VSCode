@@ -1,0 +1,24 @@
+{
+    "name": "theme-realgithub",
+    "displayName": "Theme-RealGithub",
+    "description": "The One And Only 100% Alike Github theme",
+    "version": "1.0.0",
+    "publisher": "NoHomey",
+    "repository": "https://github.com/RealGithub/RealGithub-VSCode",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "RealGithub",
+                "uiTheme": "vs",
+                "path": "./themes/RealGithub.tmTheme"
+            }
+        ]
+    }
+}
