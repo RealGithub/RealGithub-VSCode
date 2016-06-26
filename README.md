@@ -5,6 +5,10 @@ Repository to store VSCode theme package
 
 ```ext install theme-realgithub```
 
+# Screenshot
+
+![Screenshot](theme.png)
+
 # Purpose
 
 The purpose of the organization RealGithub is to provide color theme 100% alike to the one used in and from github for all major cross platform text editors.
