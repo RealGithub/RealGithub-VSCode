@@ -18,7 +18,7 @@
 				<key>foreground</key>
 				<string>#323232</string>
 				<key>invisibles</key>
-				<string>#d2d2d2</string>
+				<string>#eeeeee</string>
 				<key>caret</key>
 				<string>#323232</string>
 				<key>gutter</key>
