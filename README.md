@@ -1,5 +1,9 @@
 # RealGithub-VSCode
-Repository to store VSCode theme package
+Repository to store VSCode theme package.
+
+The purpose of the organization RealGithub was to provide color theme 100% alike to the one used in and from github in 2016 for all major cross platform text editors.
+
+**The project is now archived!**
 
 # Install
 
